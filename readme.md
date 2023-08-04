@@ -2,3 +2,5 @@
 
 style-guide'dan tasarım biglilerini aldık.
 ``https://frontend-mentor-homepage1.netlify.app/``
+
+![destkop design](./images/design/desktop-design.jpg)
